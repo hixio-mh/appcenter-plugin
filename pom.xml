@@ -6,7 +6,7 @@
         <groupId>org.jenkins-ci.plugins</groupId>
         <artifactId>plugin</artifactId>
         <version>3.4</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <properties>
@@ -77,7 +77,7 @@
         <dependency>
             <groupId>com.squareup.moshi</groupId>
             <artifactId>moshi</artifactId>
-            <version>1.8.0</version>
+            <version>1.11.0</version>
         </dependency>
 
         <dependency>
